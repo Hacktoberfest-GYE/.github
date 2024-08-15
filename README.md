@@ -1,0 +1,2 @@
+# .github
+Hacktober Fest Detail
